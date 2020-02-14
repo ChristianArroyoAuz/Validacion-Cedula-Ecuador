@@ -1,0 +1,28 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Validacion Cedula\Validacion Cedula\bin\Debug\Validacion Cedula.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Validacion Cedula\Validacion Cedula\bin\Debug\Validacion Cedula.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion_Cedula.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion_Cedula.Validacion_Cedula.resources
+c:\users\usuario\documents\visual studio 2010\Projects\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2010\Projects\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.exe
+c:\users\usuario\documents\visual studio 2010\Projects\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.pdb
+C:\Users\Usuario\Documents\Visual Studio 2010\Projects\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Reivax\Universidad\Programacion Herramientas Visuales\Ejercicicios C#\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.exe
+C:\Users\usuario\Desktop\Reivax\Universidad\Programacion Herramientas Visuales\Ejercicicios C#\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.pdb
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Programacion Herramientas Visuales\Ejercicicios C#\Validacion Cedula\Validacion Cedula\bin\Debug\Validacion Cedula.exe
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Programacion Herramientas Visuales\Ejercicicios C#\Validacion Cedula\Validacion Cedula\bin\Debug\Validacion Cedula.pdb
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Programacion Herramientas Visuales\Ejercicicios C#\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Programacion Herramientas Visuales\Ejercicicios C#\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion_Cedula.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Programacion Herramientas Visuales\Ejercicicios C#\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion_Cedula.Validacion_Cedula.resources
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Programacion Herramientas Visuales\Ejercicicios C#\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Programacion Herramientas Visuales\Ejercicicios C#\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Programacion Herramientas Visuales\Ejercicicios C#\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.exe
+C:\Users\Christian Arroyo\Desktop\Reivax\Universidad\Programacion Herramientas Visuales\Ejercicicios C#\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.pdb
+C:\Users\Christian Arroyo\Desktop\Validacion Cedula\Validacion Cedula\bin\Debug\Validacion Cedula.exe
+C:\Users\Christian Arroyo\Desktop\Validacion Cedula\Validacion Cedula\bin\Debug\Validacion Cedula.pdb
+C:\Users\Christian Arroyo\Desktop\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion_Cedula.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion_Cedula.Validacion_Cedula.resources
+C:\Users\Christian Arroyo\Desktop\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.exe
+C:\Users\Christian Arroyo\Desktop\Validacion Cedula\Validacion Cedula\obj\x86\Debug\Validacion Cedula.pdb
